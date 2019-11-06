@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</pattern>
+   <template>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU TOI DA SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU TOI DA SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU TOI DA SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU TOI DA SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * TOI DA * SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * TOI DA * SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * TOI DA * SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * TOI DA * SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * TOI DA SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * TOI DA SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * TOI DA SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * TOI DA SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU TOI DA * SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU TOI DA * SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU TOI DA * SO KT3</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU TOI DA * SO KT3 *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU TOI DA DUOC CAP THEO SO HT3 LA BAO NHIEU LAU</srai>
+   </template>
+</category>
+
+</aiml>

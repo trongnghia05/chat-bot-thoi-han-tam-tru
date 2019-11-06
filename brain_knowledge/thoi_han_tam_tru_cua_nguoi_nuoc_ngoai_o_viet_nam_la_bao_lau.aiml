@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</pattern>
+   <template>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU NGUOI NUOC NGOAI BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU NGUOI NUOC NGOAI BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU NGUOI NUOC NGOAI BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU NGUOI NUOC NGOAI BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * NGUOI NUOC NGOAI * BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * NGUOI NUOC NGOAI * BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * NGUOI NUOC NGOAI * BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * NGUOI NUOC NGOAI * BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * NGUOI NUOC NGOAI BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * NGUOI NUOC NGOAI BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * NGUOI NUOC NGOAI BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * NGUOI NUOC NGOAI BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU NGUOI NUOC NGOAI * BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU NGUOI NUOC NGOAI * BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU NGUOI NUOC NGOAI * BAO LAU</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU NGUOI NUOC NGOAI * BAO LAU *</pattern>
+   <template>
+      <srai>THOI HAN TAM TRU CUA NGUOI NUOC NGOAI O VIET NAM LA BAO LAI</srai>
+   </template>
+</category>
+
+</aiml>

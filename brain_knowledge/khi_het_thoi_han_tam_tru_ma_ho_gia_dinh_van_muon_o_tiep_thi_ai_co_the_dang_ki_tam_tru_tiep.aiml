@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</pattern>
+   <template>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU THOI HAN TAM TRU</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU THOI HAN TAM TRU *</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU THOI HAN TAM TRU</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU THOI HAN TAM TRU *</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * THOI HAN TAM TRU</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * THOI HAN TAM TRU *</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI HAN TAM TRU * THOI HAN TAM TRU</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI HAN TAM TRU * THOI HAN TAM TRU *</pattern>
+   <template>
+      <srai>KHI HET THOI HAN TAM TRU MA HO GIA DINH VAN MUON O TIEP THI AI CO THE DANG KI TAM TRU TIEP</srai>
+   </template>
+</category>
+
+</aiml>

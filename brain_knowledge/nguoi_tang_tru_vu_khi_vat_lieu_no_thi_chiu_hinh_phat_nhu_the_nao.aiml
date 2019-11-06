@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</pattern>
+   <template>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>TANG TRU VU KHI VAT LIEU NO CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VU KHI VAT LIEU NO CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VU KHI VAT LIEU NO CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VU KHI VAT LIEU NO CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI * VAT LIEU NO * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI * VAT LIEU NO * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI * VAT LIEU NO * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI * VAT LIEU NO * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI VAT LIEU NO CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI VAT LIEU NO CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI VAT LIEU NO * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI VAT LIEU NO * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VU KHI CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VU KHI CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VU KHI CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VU KHI CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VU KHI * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VU KHI * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU VAT LIEU NO CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU VAT LIEU NO CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TANG TRU * VAT LIEU NO * CHIU HINH PHAT</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TANG TRU * VAT LIEU NO * CHIU HINH PHAT *</pattern>
+   <template>
+      <srai>NGUOI TANG TRU VU KHI VAT LIEU NO THI CHIU HINH PHAT NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>
